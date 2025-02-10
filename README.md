@@ -70,8 +70,4 @@ pip install -r requirements.txt
 # Run the dashboard
 python app.py
 
-🖥 Preview
-
-🔗 Live Dashboard Demo:-
-
 
